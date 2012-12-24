@@ -1,0 +1,18 @@
+[submodule "optimizing-pda-compiler"]
+	path = optimizing-pda-compiler
+	url = git@github.com:danking/optimizing-pda-compiler.git
+[submodule "semantics"]
+	path = semantics
+	url = git@github.com:danking/pda-risc-semantics.git
+[submodule "pda-to-pda-risc"]
+	path = pda-to-pda-risc
+	url = git@github.com:danking/pda-to-pda-risc.git
+[submodule "racket-utils"]
+	path = racket-utils
+	url = git@github.com:danking/racket-utils.git
+[submodule "cfa2"]
+	path = cfa2
+	url = git@github.com:danking/pda-flow-analysis.git
+[submodule "performance-measurements"]
+	path = performance-measurements
+	url = git@github.com:danking/PDA-Flow-Analysis-Performance-Measurements.git
