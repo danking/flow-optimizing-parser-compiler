@@ -16,3 +16,6 @@
 [submodule "performance-measurements"]
 	path = performance-measurements
 	url = git@github.com:danking/PDA-Flow-Analysis-Performance-Measurements.git
+[submodule "cfa2-results-analysis"]
+	path = cfa2-results-analysis
+	url = git@github.com:danking/secondary-analysis.git
