@@ -19,3 +19,6 @@
 [submodule "cfa2-results-analysis"]
 	path = cfa2-results-analysis
 	url = git@github.com:danking/secondary-analysis.git
+[submodule "cfa2-analyses"]
+	path = cfa2-analyses
+	url = git@github.com:danking/pda-flow-analysis-instantiations.git
