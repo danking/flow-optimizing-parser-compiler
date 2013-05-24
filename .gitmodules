@@ -22,3 +22,6 @@
 [submodule "cfa2-analyses"]
 	path = cfa2-analyses
 	url = git@github.com:danking/pda-flow-analysis-instantiations.git
+[submodule "lattice"]
+	path = lattice
+	url = git@github.com:danking/lattice.git
