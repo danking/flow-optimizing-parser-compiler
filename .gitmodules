@@ -27,7 +27,7 @@
 	url = git@github.com:danking/lattice.git
 [submodule "pda2"]
 	path = pda2
-	url = ./pda2/
+	url = git@github.com:danking/pda2.git
 [submodule "pda2-analyses"]
 	path = pda2-analyses
-	url = ./pda2-analyses
+	url = git@github.com:danking/pda2-analyses.git
